@@ -56,7 +56,7 @@ To run the app, use the following command:
 
 ```bash
 streamlit run app.py
-Once the app is running, it will be accessible on your web browser at http://localhost:8501. You can interact with the analysis and visualize the results.
+Once the app is running, it will be accessible on your web browser at http://localhost:8501. You can interact with the analysis and visualize the results.'''
 
 ##Contributing
 We welcome contributions to this project! Feel free to fork this repository, make improvements, and submit pull requests.
