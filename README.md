@@ -1,7 +1,5 @@
 # MentalHealthAnalysis_StreamlitProject
 A Streamlit-based analysis of mental well-being in the tech sector.
-# Mental Health Analysis with Streamlit
-
 ## Project Overview
 This project aims to analyze mental health trends in the workplace using a dataset of mental health surveys. The analysis is presented through an interactive web application built with Streamlit. The app allows users to visualize key insights and trends related to mental health, helping organizations make informed decisions to improve workplace well-being.
 
