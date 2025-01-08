@@ -58,18 +58,18 @@ To run the app, use the following command:
 streamlit run app.py
 Once the app is running, it will be accessible on your web browser at http://localhost:8501. You can interact with the analysis and visualize the results.
 
-Contributing
+##Contributing
 We welcome contributions to this project! Feel free to fork this repository, make improvements, and submit pull requests.
 
-License
+##License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+##Acknowledgements
 Dataset: The mental health survey data was sourced from [source name].
 Libraries: Streamlit, pandas, matplotlib, seaborn, scikit-learn
 Note: If you encounter any issues or have questions, please feel free to open an issue or contact the project maintainer.
 
-Project Maintainer:
+##Project Maintainer:
 Naeem Ullah
 LinkedIn Profile
 GitHub Profile
